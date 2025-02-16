@@ -14,7 +14,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">Signify</strong>
+				<strong class="text-3xl uppercase">Signify</strong>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
